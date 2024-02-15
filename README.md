@@ -1,6 +1,6 @@
 # A sample DevOps project
 
-![GitHub Octocat](https://octodex.github.com/images/NUX_Octodex.gif)
+![GitHub Octocat](./images/NUX_Octodex.gif)
 
 ## Overview
 
