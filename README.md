@@ -1,4 +1,4 @@
-# DevOps Project Showcase
+# A sample DevOps project
 
 ![GitHub Octocat](https://octodex.github.com/nuxtocat/)
 
